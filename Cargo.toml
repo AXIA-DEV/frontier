@@ -25,7 +25,7 @@ members = [
 ]
 
 [patch.crates-io]
-evm = { git = "https://github.com/axia-dev/evm", branch = "master"}
-evm-runtime = { git = "https://github.com/axia-dev/evm", branch = "master" }
-evm-gasometer = { git = "https://github.com/axia-dev/evm", branch = "master" }
+evm = { git = "https://github.com/axia-mb/evm", branch = "master"}
+evm-runtime = { git = "https://github.com/axia-mb/evm", branch = "master" }
+evm-gasometer = { git = "https://github.com/axia-mb/evm", branch = "master" }
 ethereum = { git = "https://github.com/axia-dev/ethereum", branch = "master" }
